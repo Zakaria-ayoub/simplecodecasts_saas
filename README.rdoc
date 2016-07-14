@@ -1,7 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Coder Manual Project Application
+subscription-based web application
+https://fringuante-saucisson-53710.herokuapp.com/
+
 
 Things you may want to cover:
 
